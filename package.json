@@ -2,7 +2,7 @@
   "name": "zuri-assign",
   "version": "1.0.0",
   "description": "This a node practice folder for zuri training",
-  "main": "calculator.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
